@@ -1,0 +1,8 @@
+{
+  "name": "@bipboys/typescript-preset",
+  "version": "0.0.1",
+  "author": "Bipboys Dev Team",
+  "scripts": {
+    "build": "echo \"Attention: no build specified\""
+  }
+}
